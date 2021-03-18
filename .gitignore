@@ -1,0 +1,6 @@
+*.ex5
+
+.vscode/
+.ionide/
+__pycache__
+log.txt
